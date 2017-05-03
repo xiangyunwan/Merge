@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\github-source\\Merge1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\github-source\\Merge1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\github-source\\Merge\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\github-source\\Merge\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

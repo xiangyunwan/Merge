@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\github-source\\Merge\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record_with_record.xml",
+        "source": "D:\\github-source\\Merge\\app\\src\\main\\res\\layout\\activity_record_with_record.xml"
+    },
+    {
+        "merged": "D:\\github-source\\Merge1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record_append.xml",
+        "source": "D:\\github-source\\Merge1\\app\\src\\main\\res\\layout\\activity_record_append.xml"
+    },
+    {
+        "merged": "D:\\github-source\\Merge1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_audio_with_video.xml",
+        "source": "D:\\github-source\\Merge1\\app\\src\\main\\res\\layout\\activity_audio_with_video.xml"
+    },
+    {
+        "merged": "D:\\github-source\\Merge\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record.xml",
+        "source": "D:\\github-source\\Merge\\app\\src\\main\\res\\layout\\activity_record.xml"
+    },
+    {
+        "merged": "D:\\github-source\\Merge\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_audio_with_video.xml",
+        "source": "D:\\github-source\\Merge\\app\\src\\main\\res\\layout\\activity_audio_with_video.xml"
+    },
+    {
+        "merged": "D:\\github-source\\Merge\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record_append.xml",
+        "source": "D:\\github-source\\Merge\\app\\src\\main\\res\\layout\\activity_record_append.xml"
+    },
+    {
+        "merged": "D:\\github-source\\Merge1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record.xml",
+        "source": "D:\\github-source\\Merge1\\app\\src\\main\\res\\layout\\activity_record.xml"
+    },
+    {
+        "merged": "D:\\github-source\\Merge\\app\\build\\intermediates\\res\\merged\\debug\\layout\\record_item.xml",
+        "source": "D:\\github-source\\Merge\\app\\src\\main\\res\\layout\\record_item.xml"
+    },
+    {
+        "merged": "D:\\github-source\\Merge1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\record_item.xml",
+        "source": "D:\\github-source\\Merge1\\app\\src\\main\\res\\layout\\record_item.xml"
+    },
+    {
+        "merged": "D:\\github-source\\Merge1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record_with_record.xml",
+        "source": "D:\\github-source\\Merge1\\app\\src\\main\\res\\layout\\activity_record_with_record.xml"
+    },
+    {
+        "merged": "D:\\github-source\\Merge1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\github-source\\Merge1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\github-source\\Merge\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\github-source\\Merge\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

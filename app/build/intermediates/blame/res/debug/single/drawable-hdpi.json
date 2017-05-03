@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\github-source\\Merge1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\github-source\\Merge1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\github-source\\Merge1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stop.png",
+        "source": "D:\\github-source\\Merge1\\app\\src\\main\\res\\drawable-hdpi\\stop.png"
+    },
+    {
+        "merged": "D:\\github-source\\Merge\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stop.png",
+        "source": "D:\\github-source\\Merge\\app\\src\\main\\res\\drawable-hdpi\\stop.png"
+    },
+    {
+        "merged": "D:\\github-source\\Merge\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\github-source\\Merge\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

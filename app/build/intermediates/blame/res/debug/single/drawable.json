@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\github-source\\Merge1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_ll_bg_blue.xml",
+        "source": "D:\\github-source\\Merge1\\app\\src\\main\\res\\drawable\\record_ll_bg_blue.xml"
+    },
+    {
+        "merged": "D:\\github-source\\Merge1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_ll_bg_white.xml",
+        "source": "D:\\github-source\\Merge1\\app\\src\\main\\res\\drawable\\record_ll_bg_white.xml"
+    },
+    {
+        "merged": "D:\\github-source\\Merge\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_ll_bg_white.xml",
+        "source": "D:\\github-source\\Merge\\app\\src\\main\\res\\drawable\\record_ll_bg_white.xml"
+    },
+    {
+        "merged": "D:\\github-source\\Merge\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_ll_bg_blue.xml",
+        "source": "D:\\github-source\\Merge\\app\\src\\main\\res\\drawable\\record_ll_bg_blue.xml"
+    }
+]

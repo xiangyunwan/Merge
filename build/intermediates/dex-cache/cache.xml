@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\github-source\Merge\app\libs\isoparser-1.0.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f52997bcc332159c55231e546ab5b811202f1cf">
+        <dex dex="D:\github-source\Merge\app\build\intermediates\pre-dexed\debug\isoparser-1.0.5_7e2a13f1fe7e682fbc1ea0b030d0325b56c200b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\JavaIDE\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\github-source\Merge\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_11ab9a881d1416aefe08ba8b05c6c433a4f61dfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\Merge\app\libs\aspectjrt.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a55e04ff1889efcf17061da55008018a1ecb1db0">
+        <dex dex="D:\github-source\Merge\app\build\intermediates\pre-dexed\debug\aspectjrt_2104935e899ffc1b77b9974334a4b52d1f01cbd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\Merge\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\github-source\Merge\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_ef502d2e51303d73f40bd1261e3d7834320c457e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\Merge\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\github-source\Merge\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_ee0d941fa7d4e4255454d50e307481ad218dbd8e.jar" />
+    </item>
+
+</items>
